@@ -8,6 +8,10 @@ This repo contains:
 - cmd to run
 - nodemon js task to watch src
 
+# Dependencies
+
+- Docker
+
 # build
 
 ```shell
